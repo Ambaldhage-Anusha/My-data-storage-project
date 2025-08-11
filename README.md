@@ -1,6 +1,6 @@
 **Cloud storage and data management project**
 
-This project demonstrates use of cloud storage devices like Amazon S3 to manage and serve data effeciently and securely. It includes bucket creation, data organizzation, access permission configuration, versioning for backup,
+This project demonstrates use of cloud storage devices like Amazon S3 to manage and serve data effeciently and securely. It includes bucket creation, data organization, access permission configuration, versioning for backup,
 and data retrieval using presigned urls.
 
 **Technologies used**
