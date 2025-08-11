@@ -5,8 +5,8 @@ and data retrieval using presigned urls.
 
 **Technologies used**
 
-a.Amazon S3
-b.Git and GitHub for version control and project sharing
+Amazon S3
+Git and GitHub for version control and project sharing
 
 **How to use**
 
